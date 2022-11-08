@@ -1,8 +1,8 @@
-# Install script for directory: E:/Info- personal/C & C++/SDA-Laborator/LABORATOR 1&2/PROBLEMA 1
+# Install script for directory: E:/Info- personal/C & C++/SDA-Laborator/LABORATOR 1&2/PROBLEMA 3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/sda")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/PROBLEMA_3")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/Info- personal/C & C++/SDA-Laborator/LABORATOR 1&2/PROBLEMA 1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Info- personal/C & C++/SDA-Laborator/LABORATOR 1&2/PROBLEMA 3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

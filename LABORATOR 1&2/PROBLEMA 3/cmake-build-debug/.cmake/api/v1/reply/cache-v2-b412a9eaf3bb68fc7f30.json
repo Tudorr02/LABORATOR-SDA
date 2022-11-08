@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "e:/Info- personal/C & C++/sda/cmake-build-debug"
+			"value" : "e:/Info- personal/C & C++/SDA-Laborator/LABORATOR 1&2/PROBLEMA 3/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/Info- personal/C & C++/sda"
+			"value" : "E:/Info- personal/C & C++/SDA-Laborator/LABORATOR 1&2/PROBLEMA 3"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -635,7 +635,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/sda"
+			"value" : "C:/Program Files (x86)/PROBLEMA_3"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -851,7 +851,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "sda"
+			"value" : "PROBLEMA_3"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1230,7 +1230,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "sda_BINARY_DIR",
+			"name" : "PROBLEMA_3_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1239,10 +1239,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/Info- personal/C & C++/sda/cmake-build-debug"
+			"value" : "E:/Info- personal/C & C++/SDA-Laborator/LABORATOR 1&2/PROBLEMA 3/cmake-build-debug"
 		},
 		{
-			"name" : "sda_IS_TOP_LEVEL",
+			"name" : "PROBLEMA_3_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1254,7 +1254,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "sda_SOURCE_DIR",
+			"name" : "PROBLEMA_3_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/Info- personal/C & C++/sda"
+			"value" : "E:/Info- personal/C & C++/SDA-Laborator/LABORATOR 1&2/PROBLEMA 3"
 		}
 	],
 	"kind" : "cache",
